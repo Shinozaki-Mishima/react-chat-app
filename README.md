@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). and [NodeJ](https://nodejs.org/en/) and [ExpressJS](https://expressjs.com/).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). and [NodeJ](https://nodejs.org/en/)/[ExpressJS](https://expressjs.com/).
 
 ## Intro
 
